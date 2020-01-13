@@ -110,8 +110,8 @@
     <repository>
       <uniqueVersion>false</uniqueVersion>
       <id>deployment</id>
-      <name>Konalart_freestyle_Release</name>
-      <url>http://localhost:8081/repository/Konakart_freestyle_Release/</url>
+      <name>Konalart_freestyle_snapshot</name>
+      <url>http://localhost:8081/repository/Konakart_freestyle_snapshot/</url>
       <layout>default</layout>
     </repository>
 </distributionManagement>
